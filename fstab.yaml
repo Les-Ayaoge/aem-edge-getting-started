@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p12169-e1441769.adobeaemcloud.com/ui#/@aemsupport/aem/universal-editor/canvas/author-p12169-e1441769.adobeaemcloud.com/content/edge-wknd-site/index.htmlauthor-p12169-e1441769.adobeaemcloud.com"
+    url: "https://author-p12169-e1441769.adobeaemcloud.com/ui#/@aemsupport/aem/universal-editor/canvas/author-p12169-e1441769.adobeaemcloud.com/content/edge-wknd-site/index.html"
     type: "markup"
     suffix: ".html"
